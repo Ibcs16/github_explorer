@@ -9,7 +9,7 @@ Utilizei libs como:
 - react-router
 
 EN
-Responsive version of the Github Explorer project developed during bootcamp GoStack.
+Responsive version of the Github Explorer project developed during the GoStack bootcamp.
 
 Extra libs:
 - styled-components
