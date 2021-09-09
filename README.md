@@ -10,6 +10,7 @@ Utilizei libs como:
 
 EN
 Responsive version of the Github Explorer project developed during the GoStack bootcamp.
+Took some time to implement new features and better design UX
 
 Extra libs:
 - styled-components
